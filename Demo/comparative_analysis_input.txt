@@ -1,0 +1,74 @@
+Using only the data within the lab tests, compare the initial and new lab test values for each test. Note any changes in test values and their potential causes. Based on your analysis, compose a care plan for the patient, including:
+1. An overview of lab results:
+	1a. Comparisons: Highlight any significant changes between the initial and new lab values.
+	1b. Other notable lab values: Discuss any other lab values that are outside the normal range and their potential consequences.
+2. A preventative care plan: Recommend specific actions the patient can take to prevent future health issues based on their lab results.
+3. Follow-up instructions: Outline the next steps for the patient, including any additional tests, medication adjustments, or specialist referrals that may be necessary.
+
+Age: 34
+Sex: Female
+Component|Component_Base|Initial_Value|Initial_Flag|New_Value|New_Flag
+17-ALPHA-HYDROXYPROGESTERONE|17ALPHAHYDLC|Not Recorded|Not Recorded|29|Normal
+A/G RATIO|AGRATIO|Not Recorded|Not Recorded|1.1|Low
+ALBUMIN, SERUM|ALBUMIN|4.3|Normal|4.3|Normal
+ALKALINE PHOSPHATASE (QUEST)|ALKPHOS|81|Normal|81|Normal
+ALT (SGPT)(LABCORP)|ALT|19|Normal|11|Normal
+AST (SGOT)(LABCORP)|AST|27|Normal|18|Normal
+BASO (ABSOLUTE)(LABCORP)|BASOABS|0|Normal|0|Normal
+BASOS(LABCORP)|BASOPCT|0|Normal|0|Normal
+BILIRUBIN, TOTAL(LABCORP)|BILITOT|0.4|Normal|0.6|Normal
+BMI|BMI|43.6|Normal|44.11|Normal
+BUN(LABCORP)|BUN|21|High|12|Normal
+BUN/CREATININE RATIO(LABCORP)|BUNCREALC|24|High|13|Normal
+CANDIDA ALBICANS, NAA (LABCORP)|CALBICANSLC|Not Recorded|Not Recorded|negative|Normal
+CALCIUM, SERUM (QUEST)|CALCIUM|9.4|Normal|9.6|Normal
+CANDIDA GLABRATA, NAA (LABCORP)|CGLABRATALC|Not Recorded|Not Recorded|negative|Normal
+CHOLESTEROL, TOTAL(EXTERNAL)|CHOL|Not Recorded|Not Recorded|184|Normal
+CHLORIDE, SERUM|CL|98|Normal|102|Normal
+CARBON DIOXIDE, TOTAL(LABCORP)|CO2|22|Normal|23|Normal
+CREATININE|CREATININE|0.89|Normal|0.89|Normal
+DHEA-SULFATE, LCMS(LABCORP)|DHEASLCMSLC|332|Normal|334|Normal
+ESTRADIOL(LABCORP)|E2LC|Not Recorded|Not Recorded|39.4|Normal
+EGFR|EGFR|106|Normal|92|Normal
+EOS (ABSOLUTE)(LABCORP)|EOSABS|0.2|Normal|0.1|Normal
+EOS(LABCORP)|EOSPCT|2|Normal|2|Normal
+IRON SATURATION(LABCORP)|FESATLC|Not Recorded|Not Recorded|10|Low
+FSH(LABCORP)|FSHLC|Not Recorded|Not Recorded|6|Normal
+GLOBULIN, TOTAL|GLOBT|3.8|Normal|3.4|Normal
+GLUCOSE (QUEST)|GLUCOSE|97|Normal|99|Normal
+HEMATOCRIT(LABCORP)|HCT|35.5|Normal|38.3|Normal
+HDL-C|HDL|Not Recorded|Not Recorded|42|Normal
+HEMOGLOBIN(LABCORP)|HGB|11.5|Normal|11.5|Normal
+HEMOGLOBIN A1C(LABCORP)|HGBA1C|5.6|Normal|5.5|Normal
+IMMATURE GRANULOCYTES(LABCORP)|IMGRANPERCNT|0|Normal|0|Normal
+IMMATURE GRANS (ABS)(LABCORP)|IMMGRANABS|0|Normal|0|Normal
+IRON, SERUM(LABCORP)|IRON|Not Recorded|Not Recorded|39|Normal
+POTASSIUM, SERUM|K|4.2|Normal|4.9|Normal
+LDL CHOL CALC (NIH) (LABCORP)|LDLCALC|Not Recorded|Not Recorded|120|High
+LH|LHLC|Not Recorded|Not Recorded|8.7|Normal
+LOT NUMBER|LOTNUMBER|594728|Normal|727378|Normal
+LYMPHS (ABSOLUTE)(LABCORP)|LYMPHABSLC|2|Normal|2.3|Normal
+LYMPHS(LABCORP)|LYMPHOPCT|21|Normal|30|Normal
+MCH(LABCORP)|MCH|26.4|Low|25.4|Low
+MCHC(LABCORP)|MCHC|32.4|Normal|30|Low
+MCV(LABCORP)|MCV|81|Normal|85|Normal
+MONOCYTES(ABSOLUTE)(LABCORP)|MONOABS|0.8|Normal|0.6|Normal
+MONOCYTES(LABCORP)|MONOPCT|8|Normal|8|Normal
+SODIUM (QUEST)||134|Normal|138|Normal
+NEUTROPHILS(LABCORP)|NEUTOPHILPCT|69|Normal|60|Normal
+NEUTROPHILS (ABSOLUTE)(LABCORP)|NEUTROABS|6.4|Normal|4.8|Normal
+PLATELETS|PLT|348|Normal|343|Normal
+PREGNANCY TEST URINE, POC|PREGTESTPOC|negative|Normal|negative|Normal
+PROLACTIN|PROLACTIN|Not Recorded|Not Recorded|13.5|Normal
+PROTEIN,TOTAL, SERUM (QUEST)|PROT|8.1|Normal|7.7|Normal
+RBC(LABCORP)|RBC|4.36|Normal|4.52|Normal
+RDW(LABCORP)|RDW|13|Normal|12.8|Normal
+FREE TESTOSTERONE(DIRECT)(LABCORP)|TESTFREELC|3.1|Normal|4.8|High
+TESTOSTERONE, SERUM(LABCORP)|TESTOSLC|23|Normal|31|Normal
+IRON BIND.CAP.(TIBC)(LABCORP)|TIBCLC|Not Recorded|Not Recorded|374|Normal
+TRIGLYCERIDES (LABCORP)|TRIG|Not Recorded|Not Recorded|120|Normal
+TSH LABCORP|TSH|1.12|Normal|1.54|Normal
+TRICHOMONAS VAGINALIS BY NAA (LABCORP)|TVAGNAALC|Not Recorded|Not Recorded|negative|Normal
+UIBC(LABCORP)|UIBCLC|Not Recorded|Not Recorded|335|Normal
+VLDL CHOLESTEROL CAL|VLDL|Not Recorded|Not Recorded|22|Normal
+WBC(LABCORP)|WBC|9.4|Normal|7.9|Normal

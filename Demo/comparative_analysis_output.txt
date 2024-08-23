@@ -1,0 +1,31 @@
+Hello [Patient's Name]!
+
+I hope this letter finds you well. I'm writing to you today to discuss the results of your recent blood work and to recommend a preventative care plan based on your individual needs.
+
+**Overview of Lab Results:**
+
+* **A/G Ratio:** Your A/G ratio is low at 1.1. The normal range for A/G ratio in females your age is [insert normal range here]. A low A/G ratio can be caused by a number of factors, including liver disease, kidney disease, and malnutrition. 
+* **BUN:** Your BUN decreased from 21 to 12 mg/dL, which is now within the normal range.  The normal range for BUN in females your age is [insert normal range here]. High BUN can be caused by dehydration, kidney disease, or heart failure.
+* **BUN/Creatinine Ratio:** Your BUN/creatinine ratio decreased from 24 to 13, which is now within the normal range. The normal range for BUN/creatinine ratio in females your age is [insert normal range here]. A high BUN/creatinine ratio can be caused by dehydration, kidney disease, or heart failure.
+* **Iron Saturation:** Your iron saturation is low at 10%. The normal range for iron saturation in females your age is [insert normal range here]. Low iron saturation can be a sign of iron deficiency.
+* **LDL Cholesterol:** Your LDL cholesterol is high at 120 mg/dL. The normal range for LDL cholesterol in females your age is [insert normal range here]. High LDL cholesterol is a major risk factor for heart disease.
+* **MCH:** Your MCH decreased from 26.4 to 25.4, remaining low. The normal range for MCH in females your age is [insert normal range here]. Low MCH can be a sign of iron deficiency anemia.
+* **MCHC:** Your MCHC decreased from 32.4 to 30, which is now low. The normal range for MCHC in females your age is [insert normal range here]. Low MCHC can be a sign of iron deficiency anemia.
+* **Free Testosterone:** Your free testosterone is high at 4.8 pg/mL. The normal range for free testosterone in females your age is [insert normal range here]. High free testosterone in women can cause irregular periods, acne, and excess hair growth.
+* **Testosterone:** Your testosterone increased from 23 to 31 ng/dL, remaining within the normal range. The normal range for testosterone in females your age is [insert normal range here]. 
+* **TSH:** Your TSH increased from 1.12 to 1.54 uIU/mL, remaining within the normal range. The normal range for TSH in females your age is [insert normal range here]. 
+
+**Preventative Care Plan:**
+
+* **Diet and Exercise:** Your BMI is 44.11, which is considered obese. Losing even a small amount of weight can help to lower your risk of developing chronic diseases such as heart disease, stroke, type 2 diabetes, and some types of cancer. I recommend that you talk to a registered dietitian to develop a healthy eating plan and that you aim for at least 30 minutes of moderate-intensity exercise most days of the week.
+* **Iron Supplementation:** Because your iron saturation and MCH are low, I recommend that you start taking an iron supplement. Iron is essential for red blood cell production, and low levels can lead to fatigue, shortness of breath, and pale skin.
+* **Manage Cholesterol:** To help lower your LDL cholesterol, I recommend that you continue to eat a healthy diet and exercise regularly. You may also want to talk to me about starting a medication to lower your cholesterol. 
+
+**Follow-up:**
+
+* I would like to see you back in my office in 3 months to monitor your progress and to discuss any concerns you may have. 
+* Please feel free to contact me if you have any questions or concerns before your next appointment.
+
+Sincerely,
+
+Dr. [Your Name]
